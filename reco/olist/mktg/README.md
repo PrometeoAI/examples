@@ -24,10 +24,16 @@ His products are published on marketplaces and ready to sell!
 
 ## Attention
 A seller MQL might come from multiple sources (he might subscribe on two different landing pages, for instance).
-Examples of Landing Pages
-Example of a landing page 
+
+## Examples of Landing Pages
+Example of a landing page
+
+![](../images/jKZTP5e.png)
+
+![](../images/mAljYcq.png)
 
 ## Data Schema
 The data is divided in multiple datasets for better understanding and organization. Please refer to the following data schema when working with it: 
 
+![](../images/Jory0O3.png)
 
