@@ -19,7 +19,10 @@ All text identifying stores and partners where replaced by the names of Game of 
 
 ## Example of a product listing on a marketplace
 
+![](./images/JuJMns1.png)
 
 ## Data Schema
 The data is divided in multiple datasets for better understanding and organization. Please refer to the following data schema when working with it:
+
+![](./images/HRhd2Y0.png)
 
